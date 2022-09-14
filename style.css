@@ -8,7 +8,7 @@
 }
 
 body {
-  background: url("/picture.jpg");
+  background: url("picture.jpg");
   min-height: 100vh;
   background-size: cover;
 }
